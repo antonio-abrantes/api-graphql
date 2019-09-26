@@ -1,13 +1,13 @@
 {
   "name": "Api-graphql",
   "version": "1.0.0",
-  "description": "",
+  "description": "api-v1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Antonio Abrantes",
   "license": "ISC",
   "dependencies": {
     "express": "4.16.3",
